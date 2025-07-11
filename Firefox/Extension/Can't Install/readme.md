@@ -5,3 +5,4 @@ https://www.google.com/search?q=firefox+wsl+can%27t+install+addon+extension
 
 # Bug:
 - [Firefox unable to install extensions.  #2353](https://github.com/Microsoft/WSL/issues/2353)
+- [Firefox unable to install extensions #13175](https://github.com/microsoft/WSL/issues/13175)
